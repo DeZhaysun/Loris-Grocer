@@ -10,6 +10,14 @@ supervisors and cashiers have limited access.
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/5d95ac52-2ad8-4ac3-b08a-f3bca90f6a63)
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/0c3bc0de-ef50-4ccc-9664-c19e62195f2a)
  
+## Usage:
+Database is initialized already, but run init_tables.py to create the tables in the database.
+
+Run main.py
+
+### Master Password:
+ID: 1
+Password: x
 
 ## How it works:
 There are functions for every menu, and certain functions are stored in different files for superior organization.
@@ -25,6 +33,3 @@ The user cannot quit the program or go back once they've entered a non-menu func
 don't know the correct input.
 Commas can possibly create problems in certain string inputs when doing a sqlite execution. This is extremely rare.
 
-## Master login info:
-ID: 1
-Password: x
