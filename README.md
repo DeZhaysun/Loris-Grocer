@@ -11,7 +11,7 @@ supervisors and cashiers have limited access.
 - SQLite3
 
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/4853026e-a3da-4073-a201-2c8265be7d82)
-![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/0c3bc0de-ef50-4ccc-9664-c19e62195f2a)
+![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/4566078b-afa7-4486-8f26-d1a396fc5538)
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/0c1c9e81-511a-47fc-9fb1-b7c1b2ecb338)
  
 ## Usage:
