@@ -1,14 +1,15 @@
 # LORI's Grocer
 
-## Master login info:
-ID: 1
-Password: x
-
 ## Statement of Problem: 
 Tasked to make a database python program that can do CRUD using sqlite. There are 3 tables, inventory, employee and sales.
 We were tasked with Lori's grocer, so we made our tables and the database relevant to a grocery store.
 There are 3 positions for the employees, owner, supervisor and cashier. Owner has access to every function and menu, while
 supervisors and cashiers have limited access.
+
+![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/4853026e-a3da-4073-a201-2c8265be7d82)
+![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/5d95ac52-2ad8-4ac3-b08a-f3bca90f6a63)
+![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/0c3bc0de-ef50-4ccc-9664-c19e62195f2a)
+ 
 
 ## How it works:
 There are functions for every menu, and certain functions are stored in different files for superior organization.
@@ -24,8 +25,6 @@ The user cannot quit the program or go back once they've entered a non-menu func
 don't know the correct input.
 Commas can possibly create problems in certain string inputs when doing a sqlite execution. This is extremely rare.
 
-## Response to testing:
-Allow the user to quit when they don't know a response.
-Error check strings for commas.
-The while loops would probably be done differently, since we require an abudance of breaks.
-We would keep the functions.py and error.py files, since they are very modular and versatile.
+## Master login info:
+ID: 1
+Password: x
