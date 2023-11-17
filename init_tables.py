@@ -1,4 +1,4 @@
-# File Name: table.py
+# File Name: init_tables.py
 # Date: 2021-03-24
 # File Description: This file just initializes the database with the three tables in it
 
