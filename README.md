@@ -1,19 +1,18 @@
 # Grocer Management System
 
-## Statement of Problem: 
-Tasked to make a database python program that can do CRUD using sqlite. There are 3 tables, inventory, employee and sales.
-We were tasked with Lori's grocer, so we made our tables and the database relevant to a grocery store.
-There are 3 positions for the employees, owner, supervisor and cashier. Owner has access to every function and menu, while
-supervisors and cashiers have limited access.
-
-## Build with:
-- Python
-- SQLite3
+## About: 
+Tasked to make a database python program that can do CRUD using SQLite3. 
+- There are 3 tables: inventory, employee and sales
+- CREATE, READ, UPDATE and DELETE functions all 3 tables
+- 3 positions for the employees, owner, supervisor and cashier
+- Owner has access to every function and menu, while supervisors and cashiers have limited access.
+- Password hiding
+- Error checking on all inputs
 
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/4853026e-a3da-4073-a201-2c8265be7d82)
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/4566078b-afa7-4486-8f26-d1a396fc5538)
 ![image](https://github.com/DeZhaysun/lorisgrocer/assets/61562373/0c1c9e81-511a-47fc-9fb1-b7c1b2ecb338)
- 
+
 ## Usage:
 Database is initialized already, but run init_tables.py to create the tables in the database.
 
