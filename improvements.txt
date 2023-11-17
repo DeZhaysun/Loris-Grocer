@@ -1,0 +1,19 @@
+To start off, the rough draft was lacking consistency to the menus as it was made by different people so we had to take the time on the final version
+to line everything up and give off a similiar vibe
+
+The second thing is we did not implement primary key. The program was indeed working but we realised we did not have the use of a primary key
+to link the sales table to the inventory and employee
+
+The third thing is that we did not implement ranges where the user can specify a certain range such as from blank to blank. We thought that would
+be a neat option to have
+
+The fourth thing is that we did not implement the cool green colour which we have on the menus now
+
+The fith thing is that we didnt realize when you sign out you can never sign in because of a boolean issue we would face
+
+The sixth thing is that viewing for sales was very hit or miss. With some things it would give you an error where with others it would not so
+we ended up spending time to fix that
+
+The seventh thing is that we would not note if a person had the same id and just allowed it. We made is so the program would not do such a thing
+
+These are the 7 major changes between the rough and final, maybe besides adding comments but thats pretty common.

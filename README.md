@@ -1,2 +1,9 @@
-# lorisgrocer
-Grocery Store inventory and employee app with SQL database
+#LORI's Grocer
+
+Master login info:
+
+ID: 1
+
+Password: x
+
+Read external.txt
