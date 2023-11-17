@@ -6,8 +6,8 @@
 import sqlite3
 import stdiomask #Importing this library is what is responsible for turning the text put into
 #password into a *
-import functions
-import error
+from . import functions
+from . import error
 
 def signIn():
     """

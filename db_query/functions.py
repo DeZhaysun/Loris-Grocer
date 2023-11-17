@@ -5,7 +5,7 @@
 
 import sqlite3
 from os import system, name 
-import error
+from . import error
 
 def search(table, searchBy, t, s):
     '''Searches for an item in any table through user input

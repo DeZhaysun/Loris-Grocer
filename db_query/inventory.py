@@ -3,8 +3,8 @@
 # This file just runs the inventory functions when it is called from the main menu.
 # The proper sql runs in the function file. Import error is there to ensure the user cannot product the wrong input and break the code
 import sqlite3
-import functions
-import error
+from . import functions
+from . import error
 
 def printItems(items):
     if items == 'Doesn\'t exist':

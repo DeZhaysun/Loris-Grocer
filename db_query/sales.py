@@ -4,8 +4,8 @@
 # The proper sql runs in the function file. Import error is there to ensure the user cannot product the wrong input and break the code
 
 import sqlite3
-import functions
-import error
+from . import functions
+from . import error
 
 def printItems(items):
     """

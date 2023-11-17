@@ -7,11 +7,11 @@
 # clear the screen for the user and waits for user to hit enter
 #All the submenues have the parameter position, in order for the program to know who is accessing the database, and restricts certain functions based on position
 
-import employee
-import inventory
-import sales
-import functions
-import encryption
+from db_query import employee
+from db_query import inventory
+from db_query import sales
+from db_query import functions
+from db_query import encryption
 import time
 
 def lorisSign(first):
